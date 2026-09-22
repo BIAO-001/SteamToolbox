@@ -1,0 +1,13 @@
+appaccesstokens：https://pan.qzyun.net/f/d/E4rxcp/appaccesstokens.json
+depotkeys：https://pan.qzyun.net/f/d/Zox2uX/depotkeys.json
+appids：https://pan.qzyun.net/f/d/mv3nCN/appids.txt
+NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
+Key time：2026.09.21--23：43
+Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，已经彻底解决无网络问题！记得卸载steamtools
+kernel：2026.09.16--11：28
+version1：260912
+Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/SteamToolbox_v260912.exe
+CAPTCHA：5FB6WE
+URL：https://pan.quark.cn/s/9d5114596596
+BIAO_kernel：user32.dll,GreenLuma_2026_x86.dll,GreenLuma_2026_x64.dll,hid.dll,midimap.dll,xinput1_4.dll,steam.cfg,dwmapi.dll,OpenSteamTool.dll,opensteamtool.toml,opensteamtool/,cloud_redirect.dll,cloud_redirect.log,CaigamerQ.dll,version.dll,winmm.dll,bin/dwmapi.dll
+kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/OpenSteamTool_Beta.zip
