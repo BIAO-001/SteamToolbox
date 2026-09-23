@@ -4,10 +4,10 @@ appids：https://pan.qzyun.net/f/d/ev95tE/appids.txt
 NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
 Key time：2026.09.23--12：59
 Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，已经彻底解决无网络问题！记得卸载steamtools
-kernel：2026.09.16--11：28
-version1：260912
-Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/SteamToolbox_v260912.exe
-CAPTCHA：5FB6WE
-URL：https://pan.quark.cn/s/9d5114596596
+kernel：2026.09.24--00：30
+version1：260923
+Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/SteamToolbox_v260923.exe
+CAPTCHA：V15SD64
+URL：https://pan.quark.cn/s/2d9874f472b7
 BIAO_kernel：user32.dll,GreenLuma_2026_x86.dll,GreenLuma_2026_x64.dll,hid.dll,midimap.dll,xinput1_4.dll,steam.cfg,dwmapi.dll,OpenSteamTool.dll,opensteamtool.toml,opensteamtool/,cloud_redirect.dll,cloud_redirect.log,CaigamerQ.dll,version.dll,winmm.dll,bin/dwmapi.dll
 kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/OpenSteamTool_Beta.zip
