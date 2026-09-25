@@ -1,13 +1,13 @@
-appaccesstokens：https://gitee.com/biaogeNB/appid/releases/download/BIAO/appaccesstokens.json
-depotkeys：https://gitee.com/biaogeNB/appid/releases/download/BIAO/depotkeys.json
-appids：https://gitee.com/biaogeNB/appid/releases/download/BIAO/appids.txt
-NSFW：https://gitee.com/biaogeNB/appid/releases/download/BIAO/NSFW.txt
+appaccesstokens：https://pan.qzyun.net/f/d/4GpxIo/appaccesstokens.json
+depotkeys：https://pan.qzyun.net/f/d/kKnJHY/depotkeys.json
+appids：https://pan.qzyun.net/f/d/K4KDuE/appids.txt
+NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
 Key time：2026.09.25--23：32
 Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools，工具手动更新到最新260925版本，自动更新有问题！
 kernel：2026.09.24--00：30
 version1：260925
 Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/SteamToolbox_v260925.exe
-CAPTCHA：DS6GW3
-URL：https://pan.quark.cn/s/0b583cac9de2
+CAPTCHA：A6FDD
+URL：https://pan.quark.cn/s/a8891307e707
 BIAO_kernel：user32.dll,GreenLuma_2026_x86.dll,GreenLuma_2026_x64.dll,hid.dll,midimap.dll,xinput1_4.dll,steam.cfg,dwmapi.dll,OpenSteamTool.dll,opensteamtool.toml,opensteamtool/,cloud_redirect.dll,cloud_redirect.log,CaigamerQ.dll,version.dll,winmm.dll,bin/dwmapi.dll,appcache/appinfo.vdf,appcache/packageinfo.vdf
 kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/OpenSteamTool_Beta.zip
