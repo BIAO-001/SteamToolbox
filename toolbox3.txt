@@ -1,8 +1,8 @@
-appaccesstokens：https://pan.qzyun.net/f/d/30GzUm/appaccesstokens.json
-depotkeys：https://pan.qzyun.net/f/d/lYO4cP/depotkeys.json
-appids：https://pan.qzyun.net/f/d/prxQUe/appids.txt
-NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
-Key time：2026.09.25--10：00
+appaccesstokens：https://gitee.com/biaogeNB/appid/releases/download/BIAO/appaccesstokens.json
+depotkeys：https://gitee.com/biaogeNB/appid/releases/download/BIAO/depotkeys.json
+appids：https://gitee.com/biaogeNB/appid/releases/download/BIAO/appids.txt
+NSFW：https://gitee.com/biaogeNB/appid/releases/download/BIAO/NSFW.txt
+Key time：2026.09.25--23：32
 Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools，工具手动更新到最新260925版本，自动更新有问题！
 kernel：2026.09.24--00：30
 version1：260925
