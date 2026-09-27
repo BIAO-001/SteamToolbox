@@ -2,7 +2,7 @@ appaccesstokens：https://pan.qzyun.net/f/d/Owz0s5/appaccesstokens.json
 depotkeys：https://pan.qzyun.net/f/d/NwBGIa/depotkeys.json
 appids：https://pan.qzyun.net/f/d/R255sO/appids.txt
 NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
-Key time：2026.09.25--23：32
+Key time：2026.09.27--12：00
 Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools，工具手动更新到最新260925版本，自动更新有问题！
 kernel：2026.09.24--00：30
 version1：260925
