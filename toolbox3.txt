@@ -1,8 +1,8 @@
-appaccesstokens：https://pan.qzyun.net/f/d/jXvQUP/appaccesstokens.json
-depotkeys：https://pan.qzyun.net/f/d/evgZtE/depotkeys.json
-appids：https://pan.qzyun.net/f/d/1m6JT1/appids.txt
+appaccesstokens：https://pan.qzyun.net/f/d/YMmRhR/appaccesstokens.json
+depotkeys：https://pan.qzyun.net/f/d/neraCx/depotkeys.json
+appids：https://pan.qzyun.net/f/d/4k5ato/appids.txt
 NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
-Key time：2026.09.30--13：44
+Key time：2026.10.01--14：13
 Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools，工具手动更新到最新260925版本，自动更新有问题！
 kernel：2026.09.24--00：30
 version1：260925
