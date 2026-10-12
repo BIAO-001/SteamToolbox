@@ -1,13 +1,13 @@
-appaccesstokens：https://pan.qzyun.net/f/d/4egnso/appaccesstokens.json
-depotkeys：https://pan.qzyun.net/f/d/kovBiY/depotkeys.json
-appids：https://pan.qzyun.net/f/d/KzGnuE/appids.txt
+appaccesstokens：https://pan.qzyun.net/f/d/A06Dce/appaccesstokens.json
+depotkeys：https://pan.qzyun.net/f/d/aWr0CA/depotkeys.json
+appids：https://pan.qzyun.net/f/d/LQ5os5/appids.txt
 NSFW：https://pan.qzyun.net/f/d/oggGcB/NSFW.txt
-Key time：2026.10.12--01：00
-Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools，新版本会有一些BUG，很快会迎来下一次更新！
+Key time：2026.10.13--10：00
+Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools
 kernel：2026.10.06--02：50
-version1：261012
-Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/steam-toolbox_v261012.zip
-CAPTCHA：F6WD2
-URL：https://pan.quark.cn/s/49e39ece01e3
+version1：261013
+Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/steam-toolbox_v261013.zip
+CAPTCHA：DV6S1
+URL：https://pan.quark.cn/s/a0ccfd4e6710
 BIAO_kernel：user32.dll,GreenLuma_2026_x86.dll,GreenLuma_2026_x64.dll,hid.dll,midimap.dll,xinput1_4.dll,steam.cfg,dwmapi.dll,OpenSteamTool.dll,opensteamtool.toml,opensteamtool/,cloud_redirect.dll,cloud_redirect.log,CaigamerQ.dll,version.dll,winmm.dll,bin/dwmapi.dll,appcache/appinfo.vdf,appcache/packageinfo.vdf
 kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/OpenSteamTool_Beta.zip
