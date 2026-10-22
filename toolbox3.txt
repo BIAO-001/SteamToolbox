@@ -4,8 +4,8 @@ appids：https://pan.qzyun.net/f/d/NjAkfa/appids.txt
 NSFW：https://pan.qzyun.net/f/d/Prr6u3/NSFW.txt
 Key time：2026.10.22--08：00
 Announcement：toolbox工具完全免费，禁止倒卖，设置页面-初始化open内核，记得卸载steamtools
-kernel：2026.10.18--20：13
-version1：261022
+kernel：2026.10.22--11：00
+version1：261015
 Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/steam-toolbox_v261015.zip
 CAPTCHA：NG6DA
 URL：https://pan.quark.cn/s/1eb8e1232297
