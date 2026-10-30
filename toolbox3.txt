@@ -3,7 +3,7 @@ depotkeys：https://pan.qzyun.net/f/d/EQP4fp/depotkeys.json
 appids：https://pan.qzyun.net/f/d/ZPQwuX/appids.txt
 NSFW：https://pan.qzyun.net/f/d/Prr6u3/NSFW.txt
 Key time：2026.10.30--12：00
-Announcement：toolbox工具完全免费，禁止倒卖，闲鱼、拼多多、淘宝没有任何售卖，买到就去退款+举报！！！
+Announcement：toolbox工具完全免费，禁止倒卖，闲鱼、拼多多、淘宝没有任何售卖，买到就去退款+举报！！！工具仅在B站UP：B-I-A-O和菜玩社区内发布
 kernel：2026.10.29--00：00
 version1：261029
 Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/steam-toolbox_v261029.zip
