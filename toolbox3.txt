@@ -1,14 +1,14 @@
-appaccesstokens：https://pan.qzyun.net/f/d/Nxk1ua/appaccesstokens.json
-depotkeys：https://pan.qzyun.net/f/d/OBOAU5/depotkeys.json
-appids：https://pan.qzyun.net/f/d/RyVRhO/appids.txt
+appaccesstokens：https://pan.qzyun.net/f/d/Pownh3/appaccesstokens.json
+depotkeys：https://pan.qzyun.net/f/d/rpW4i5/depotkeys.json
+appids：https://pan.qzyun.net/f/d/6QGlHD/appids.txt
 NSFW：https://pan.qzyun.net/f/d/Prr6u3/NSFW.txt
-Key time：2026.11.04--12：08
+Key time：2026.11.05--12：08
 Announcement：toolbox工具完全免费，禁止倒卖，闲鱼、拼多多、淘宝没有任何售卖，买了就退款+举报！工具仅在B站UP：B-I-A-O和菜玩社区内发布。卸载steamtools
 kernel：2026.11.04--17：17
 version1：261029
 Update：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/steam-toolbox_v261029.zip
-CAPTCHA：DVS9AS
-URL：https://pan.quark.cn/s/080a922b6bdd
+CAPTCHA：TJ9HR3
+URL：https://pan.quark.cn/s/29d1cdcd5054
 BIAO_kernel：user32.dll,GreenLuma_2026_x86.dll,GreenLuma_2026_x64.dll,hid.dll,midimap.dll,xinput1_4.dll,steam.cfg,dwmapi.dll,OpenSteamTool.dll,opensteamtool.toml,opensteamtool/,cloud_redirect.dll,cloud_redirect.log,CaigamerQ.dll,version.dll,winmm.dll,bin/dwmapi.dll,appcache/appinfo.vdf,appcache/packageinfo.vdf
 kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/OpenSteamTool_Beta.zip
 4115450：https://pan.qzyun.net/f/d/0KGQIK/4115450.lua
