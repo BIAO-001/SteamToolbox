@@ -13,3 +13,4 @@ BIAO_kernel：user32.dll,GreenLuma_2026_x86.dll,GreenLuma_2026_x64.dll,hid.dll,m
 kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamToolBox/OpenSteamTool_Beta.zip
 4115450：https://pan.qzyun.net/f/d/0KGQIK/4115450.lua
 4767430：https://pan.qzyun.net/f/d/wejPTR/4767430.lua
+3816120：https://pan.qzyun.net/f/d/m3JnHN/3816120.lua
