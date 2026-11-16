@@ -1,3 +1,4 @@
 # SteamToolbox
 
-<img width="1267" height="857" alt="image" src="https://github.com/user-attachments/assets/2cf1aaed-9c89-4a9a-bb64-4ba2aa95aab7" />
+<img width="1245" height="865" alt="image" src="https://github.com/user-attachments/assets/ba06b575-e116-40f5-bb63-c04729356fbf" />
+
