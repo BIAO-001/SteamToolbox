@@ -14,4 +14,5 @@ kernelBeta：https://gitee.com/biaogeNB/SteamToolbox/releases/download/SteamTool
 4115450：https://pan.qzyun.net/f/d/0KGQIK/4115450.lua
 4767430：https://pan.qzyun.net/f/d/wejPTR/4767430.lua
 3816120：https://pan.qzyun.net/f/d/m3JnHN/3816120.lua
+1158310：https://pan.qzyun.net/f/d/2QeRtj/1158310.lua
 allowlist：3755860
